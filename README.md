@@ -37,3 +37,21 @@ MongoDB (local database)
 bcrypt (password hashing)
 
 Logging (secure activity logs)
+
+🧪 Manual Testing Summary
+
+20 manual security test cases were performed on SecurePayLite covering:
+
+Input validation tests (SQLi, XSS, length checks)
+
+Session management tests (timeout, logout, unauthorized access)
+
+Authentication tests (password hashing, lockout, registration)
+
+Error handling and encryption validation
+
+File upload and format validation
+
+Result: ✅ All 20 test cases passed successfully.
+
+
