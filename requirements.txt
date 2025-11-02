@@ -1,0 +1,4 @@
+streamlit>=1.20
+bcrypt>=4.0.0
+cryptography>=40.0.0
+pandas>=2.0
